@@ -1,4 +1,4 @@
-# Abstruct Data Structures in C
+# Abstract Data Structures in C
 
 This repository contains the implementation of the following ADTs:
 * Vector
